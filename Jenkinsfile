@@ -9,5 +9,4 @@ node {
                 echo "Integration Test"
         }
 
-
 }
