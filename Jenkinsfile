@@ -8,9 +8,6 @@ node {
         stage('Integration Test') {
                 echo "Integration Test"
         }
-        stage('QA Test') {
-                echo "QA Test"
-        }
 
 
 }
